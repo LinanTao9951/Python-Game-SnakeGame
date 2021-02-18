@@ -1,6 +1,7 @@
 # Python-SnakeGame
                                                                                   
 Classic snake game, written in a way of OOP, forked from Dr. Angela Yu, Day 20 in "100 days of code" course.
+
 A great thanks to Dr. Angela Yu for her teaching in Udemy online course.
 
 Targets achieved:
@@ -26,5 +27,7 @@ Skills/concepts used in this project.
 3. Slicing
 
 From: Linan Tao
+
 LinkedIn: https://www.linkedin.com/in/linantao9951/?locale=en_US
+
 Repl code link: https://repl.it/@LinanTao/SnakeGame#main.py
