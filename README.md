@@ -1,12 +1,4 @@
 # Python-SnakeGame
-   _____             _           _____                      
-  / ____|           | |         / ____|                     
- | (___  _ __   __ _| | _____  | |  __  __ _ _ __ ___   ___ 
-  \___ \| '_ \ / _` | |/ / _ \ | | |_ |/ _` | '_ ` _ \ / _ \
-  ____) | | | | (_| |   <  __/ | |__| | (_| | | | | | |  __/
- |_____/|_| |_|\__,_|_|\_\___|  \_____|\__,_|_| |_| |_|\___|
-                                                            
-                                                            
                                                                                   
 Classic snake game, written in a way of OOP, forked from Dr. Angela Yu, Day 20 in "100 days of code" course.
 A great thanks to Dr. Angela Yu for her teaching in Udemy online course.
