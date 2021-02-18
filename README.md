@@ -1,12 +1,12 @@
 # Python-SnakeGame
-   _____             _           _____                        _____         _____       _   _                 
-  / ____|           | |         / ____|                      |_   _|       |  __ \     | | | |                
- | (___  _ __   __ _| | _____  | |  __  __ _ _ __ ___   ___    | |  _ __   | |__) |   _| |_| |__   ___  _ __  
-  \___ \| '_ \ / _` | |/ / _ \ | | |_ |/ _` | '_ ` _ \ / _ \   | | | '_ \  |  ___/ | | | __| '_ \ / _ \| '_ \ 
-  ____) | | | | (_| |   <  __/ | |__| | (_| | | | | | |  __/  _| |_| | | | | |   | |_| | |_| | | | (_) | | | |
- |_____/|_| |_|\__,_|_|\_\___|  \_____|\__,_|_| |_| |_|\___| |_____|_| |_| |_|    \__, |\__|_| |_|\___/|_| |_|
-                                                                                   __/ |                      
-                                                                                  |___/                       
+   _____             _           _____                      
+  / ____|           | |         / ____|                     
+ | (___  _ __   __ _| | _____  | |  __  __ _ _ __ ___   ___ 
+  \___ \| '_ \ / _` | |/ / _ \ | | |_ |/ _` | '_ ` _ \ / _ \
+  ____) | | | | (_| |   <  __/ | |__| | (_| | | | | | |  __/
+ |_____/|_| |_|\__,_|_|\_\___|  \_____|\__,_|_| |_| |_|\___|
+                                                            
+                                                            
                                                                                   
 Classic snake game, written in a way of OOP, forked from Dr. Angela Yu, Day 20 in "100 days of code" course.
 A great thanks to Dr. Angela Yu for her teaching in Udemy online course.
@@ -35,3 +35,4 @@ Skills/concepts used in this project.
 
 From: Linan Tao
 LinkedIn: https://www.linkedin.com/in/linantao9951/?locale=en_US
+Repl code link: https://repl.it/@LinanTao/SnakeGame#main.py
